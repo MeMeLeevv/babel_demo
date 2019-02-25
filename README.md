@@ -1,5 +1,5 @@
 # babel_demo
 基础的Babel入门学习
 
-如果运行不起来大概是node_modules里面的内容有些缺失了，可以在bash中输入npm install 
+如果运行不起来大概是node_modules里面的内容有些缺失了，先删除node_modules文件，然后在bash中输入npm install ，
 他会直接根据你的配置文件重新装好那些包
